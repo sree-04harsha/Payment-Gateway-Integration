@@ -1,2 +1,2 @@
 # Payment-Gateway-Integration
-Task #3 of TSF GRIP. The task was to create a Payment Gateway Integration website.
+Task #3 of The Sparks Foundation GRIP. The task is to create a Payment Gateway Integration website.
